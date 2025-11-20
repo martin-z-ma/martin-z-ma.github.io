@@ -1,5 +1,3 @@
-# Projects
-
 ## Current Projects
 
 - **A-SMART: Applied Systems Modeling, Analytics, Research & Technology**
