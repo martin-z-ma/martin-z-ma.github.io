@@ -1,5 +1,3 @@
-# People
-
 ## Principal Investigator
 
 <img src="Photo-Martin Ma.jpg" alt="Martin Ma" width="200" style="border-radius:10px;">
