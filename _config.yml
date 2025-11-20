@@ -3,7 +3,10 @@ description: "Applied Systems Modeling, Analytics, Research & Technology (A-SMAR
 theme: minima
 
 header_pages:
+  - PI.md
   - people.md
   - research.md
   - projects.md
   - publications.md
+  - collaborators.md
+  - sponsors.md
