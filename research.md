@@ -1,5 +1,3 @@
-# Research
-
 We focus on applied modeling, analytics, and optimization for:
 
 - **Chemical & process systems**
