@@ -1,3 +1,9 @@
 title: "A-SMART Lab"
 description: "Applied Systems Modeling, Analytics, Research & Technology (A-SMART) Lab"
 theme: minima
+
+header_pages:
+  - people.md
+  - research.md
+  - projects.md
+  - publications.md
