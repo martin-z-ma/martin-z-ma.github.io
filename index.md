@@ -1,4 +1,4 @@
-Welcome to the A-SMART Lab.
+## Welcome to the Applied Systems Modeling, Analytics, Research & Technology (A-SMART) A-SMART Lab.
 
 We develop applied modeling, analytics, and optimization methods to solve
 real-world problems in engineering, food, chemical, and biological systems.
