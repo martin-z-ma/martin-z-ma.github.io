@@ -1,11 +1,11 @@
-## Welcome to the Applied Systems Modeling, Analytics, Research & Technology (A-SMART) A-SMART Lab.
+### Welcome to the Applied Systems Modeling, Analytics, Research & Technology (A-SMART) A-SMART Lab.
 
 We develop applied modeling, analytics, and optimization methods to solve
 real-world problems in engineering, food, chemical, and biological systems.
 
 ---
 
-## Mission
+### Mission
 
 To create data-driven, model-based, and optimization-enhanced solutions
 for complex engineered and biological processes, with direct impact on
@@ -13,7 +13,7 @@ industry and society.
 
 ---
 
-## Research Areas
+### Research Areas
 
 - **Applied machine learning & optimization**
 - **Chemical and process systems engineering**
@@ -24,7 +24,7 @@ industry and society.
 
 ---
 
-## Get to know us
+### Get to know us
 
 - Learn more about the PI: [Dr. Ma](PI.md)
 - Meet the team: [Team Members](people.md)
