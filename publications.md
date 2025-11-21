@@ -133,6 +133,7 @@ https://doi.org/10.1115/1.4035751
 based approaches for steam-assisted gravity drainage production analysis. Expert Systems with
 Applications 42, 21 (2015), 7326–7343
 https://doi.org/10.1016/j.eswa.2015.05.047
+{: reversed="reversed"}
 
 
 
